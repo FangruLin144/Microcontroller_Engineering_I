@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/Joystick_Class]=066DFF515350836767140934
+DEVICE_TYPE[/home/studio/workspace/Joystick_Class]=connected
+TARGET=NUCLEO_F401RE
+TARGET_CODE=0720

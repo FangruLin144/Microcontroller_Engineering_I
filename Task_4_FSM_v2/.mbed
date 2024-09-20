@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/Task_4_FSM_v2]=066DFF515350836767140934
+DEVICE_TYPE[/home/studio/workspace/Task_4_FSM_v2]=connected
+TARGET=NUCLEO_F401RE
+TARGET_CODE=0720
